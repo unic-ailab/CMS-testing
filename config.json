@@ -1,0 +1,12 @@
+{
+    "width": 10000,
+    "depth": 5,
+    "sleep_time": 0.0001,
+    "eval_interval": 2000,
+    "vis_interval": 100000,
+    "algorithm": "CountMinSketch",
+    "stream_type": "dataset",
+    "dataset_name": "FIFA.csv",
+    "dataset_path": "",
+    "field": "Tweet"
+}

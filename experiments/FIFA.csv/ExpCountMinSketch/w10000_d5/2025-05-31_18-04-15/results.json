@@ -1,0 +1,62 @@
+[
+    {
+        "processed_items": 2000,
+        "avg_error": 4.040404040404041,
+        "overestimation_percentage": 0.0,
+        "underestimation_percentage": 100.0,
+        "exact_match_percentage": 0.0,
+        "avg_query_time": 4.488945007324219e-06,
+        "memory_usage": 5039568.0,
+        "load_factor": 0.0,
+        "percentiles": {
+            "overestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "underestimation": {
+                "50th": 1.0,
+                "90th": 3.0,
+                "95th": 8.0,
+                "100th": 501.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 3.0,
+                "95th": 8.0,
+                "100th": 501.0
+            }
+        }
+    },
+    {
+        "processed_items": 4000,
+        "avg_error": 4.739336492890995,
+        "overestimation_percentage": 0.0,
+        "underestimation_percentage": 100.0,
+        "exact_match_percentage": 0.0,
+        "avg_query_time": 9.372949600219727e-06,
+        "memory_usage": 6533648.0,
+        "load_factor": 0.0,
+        "percentiles": {
+            "overestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "underestimation": {
+                "50th": 1.0,
+                "90th": 3.0,
+                "95th": 8.0,
+                "100th": 1017.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 3.0,
+                "95th": 8.0,
+                "100th": 1017.0
+            }
+        }
+    }
+]

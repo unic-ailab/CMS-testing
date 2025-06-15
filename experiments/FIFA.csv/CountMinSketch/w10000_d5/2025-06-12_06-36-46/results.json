@@ -1,0 +1,1412 @@
+[
+    {
+        "processed_items": 2000,
+        "avg_error": 0.0,
+        "overestimation_percentage": 0.0,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 100.0,
+        "avg_query_time": 5.255361660636644e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.0661,
+        "percentiles": {
+            "overestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            }
+        }
+    },
+    {
+        "processed_items": 4000,
+        "avg_error": 0.0,
+        "overestimation_percentage": 0.0,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 100.0,
+        "avg_query_time": 5.087878920013935e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.103,
+        "percentiles": {
+            "overestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            }
+        }
+    },
+    {
+        "processed_items": 6000,
+        "avg_error": 0.0,
+        "overestimation_percentage": 0.0,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 100.0,
+        "avg_query_time": 5.28729309675492e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.1258,
+        "percentiles": {
+            "overestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            }
+        }
+    },
+    {
+        "processed_items": 8000,
+        "avg_error": 0.0,
+        "overestimation_percentage": 0.0,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 100.0,
+        "avg_query_time": 5.358356540485964e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.1536,
+        "percentiles": {
+            "overestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            }
+        }
+    },
+    {
+        "processed_items": 10000,
+        "avg_error": 0.0,
+        "overestimation_percentage": 0.0,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 100.0,
+        "avg_query_time": 5.337744477192139e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.1736,
+        "percentiles": {
+            "overestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            }
+        }
+    },
+    {
+        "processed_items": 12000,
+        "avg_error": 0.00047080979284369113,
+        "overestimation_percentage": 0.047080979284369114,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.95291902071564,
+        "avg_query_time": 7.32474856906467e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.1935,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 1.0,
+                "95th": 1.0,
+                "100th": 1.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 1.0,
+                "95th": 1.0,
+                "100th": 1.0
+            }
+        }
+    },
+    {
+        "processed_items": 14000,
+        "avg_error": 0.0004248088360237893,
+        "overestimation_percentage": 0.04248088360237893,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.95751911639762,
+        "avg_query_time": 5.893820711587989e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.211,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 1.0,
+                "95th": 1.0,
+                "100th": 1.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 1.0,
+                "95th": 1.0,
+                "100th": 1.0
+            }
+        }
+    },
+    {
+        "processed_items": 16000,
+        "avg_error": 0.001176470588235294,
+        "overestimation_percentage": 0.0784313725490196,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.92156862745098,
+        "avg_query_time": 5.4016300276214e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.2264,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.5,
+                "90th": 1.9,
+                "95th": 1.95,
+                "100th": 2.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.5,
+                "90th": 1.9,
+                "95th": 1.95,
+                "100th": 2.0
+            }
+        }
+    },
+    {
+        "processed_items": 18000,
+        "avg_error": 0.0018635855385762206,
+        "overestimation_percentage": 0.14908684308609765,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.8509131569139,
+        "avg_query_time": 6.358480435718674e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.237,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 1.7000000000000002,
+                "95th": 1.8499999999999996,
+                "100th": 2.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 1.7000000000000002,
+                "95th": 1.8499999999999996,
+                "100th": 2.0
+            }
+        }
+    },
+    {
+        "processed_items": 20000,
+        "avg_error": 0.002472624514305899,
+        "overestimation_percentage": 0.17661603673613563,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.82338396326386,
+        "avg_query_time": 5.75270091885183e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.2486,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 2.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 2.0
+            }
+        }
+    },
+    {
+        "processed_items": 22000,
+        "avg_error": 0.0026367831245880024,
+        "overestimation_percentage": 0.16479894528675015,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.83520105471325,
+        "avg_query_time": 5.273341189581231e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.2635,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.6,
+                "95th": 2.8,
+                "100th": 3.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.6,
+                "95th": 2.8,
+                "100th": 3.0
+            }
+        }
+    },
+    {
+        "processed_items": 24000,
+        "avg_error": 0.0025244556642473968,
+        "overestimation_percentage": 0.1577784790154623,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.84222152098454,
+        "avg_query_time": 6.070081350291027e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.2729,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.6,
+                "95th": 2.8,
+                "100th": 3.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.6,
+                "95th": 2.8,
+                "100th": 3.0
+            }
+        }
+    },
+    {
+        "processed_items": 26000,
+        "avg_error": 0.002733070148800486,
+        "overestimation_percentage": 0.18220467658669906,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.8177953234133,
+        "avg_query_time": 5.943812101835036e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.2822,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.5,
+                "95th": 2.75,
+                "100th": 3.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.5,
+                "95th": 2.75,
+                "100th": 3.0
+            }
+        }
+    },
+    {
+        "processed_items": 28000,
+        "avg_error": 0.0026423957721667646,
+        "overestimation_percentage": 0.17615971814445097,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.82384028185555,
+        "avg_query_time": 5.2706885883826335e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.2899,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.5,
+                "95th": 2.75,
+                "100th": 3.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.5,
+                "95th": 2.75,
+                "100th": 3.0
+            }
+        }
+    },
+    {
+        "processed_items": 30000,
+        "avg_error": 0.0025560920193126954,
+        "overestimation_percentage": 0.17040613462084636,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.82959386537915,
+        "avg_query_time": 5.763418733379577e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.2983,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.5,
+                "95th": 2.75,
+                "100th": 3.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.5,
+                "95th": 2.75,
+                "100th": 3.0
+            }
+        }
+    },
+    {
+        "processed_items": 32000,
+        "avg_error": 0.002764722145424385,
+        "overestimation_percentage": 0.19353055017970694,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.80646944982028,
+        "avg_query_time": 5.3513995975560825e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.3053,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.4000000000000004,
+                "95th": 2.6999999999999993,
+                "100th": 3.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.4000000000000004,
+                "95th": 2.6999999999999993,
+                "100th": 3.0
+            }
+        }
+    },
+    {
+        "processed_items": 34000,
+        "avg_error": 0.004828326180257511,
+        "overestimation_percentage": 0.37553648068669526,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.6244635193133,
+        "avg_query_time": 5.543423824555884e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.3133,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.3499999999999996,
+                "100th": 3.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.3499999999999996,
+                "100th": 3.0
+            }
+        }
+    },
+    {
+        "processed_items": 36000,
+        "avg_error": 0.00522875816993464,
+        "overestimation_percentage": 0.4183006535947713,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.58169934640523,
+        "avg_query_time": 6.0716641494651245e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.3203,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.25,
+                "100th": 3.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.25,
+                "100th": 3.0
+            }
+        }
+    },
+    {
+        "processed_items": 38000,
+        "avg_error": 0.005361245851416901,
+        "overestimation_percentage": 0.40847587439366867,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.59152412560634,
+        "avg_query_time": 6.053591979715572e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.3273,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.5,
+                "95th": 3.0,
+                "100th": 3.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.5,
+                "95th": 3.0,
+                "100th": 3.0
+            }
+        }
+    },
+    {
+        "processed_items": 40000,
+        "avg_error": 0.0059420648675414705,
+        "overestimation_percentage": 0.4704134686803664,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.52958653131964,
+        "avg_query_time": 5.3367628913080376e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.3364,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.1999999999999993,
+                "95th": 3.0,
+                "100th": 3.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.1999999999999993,
+                "95th": 3.0,
+                "100th": 3.0
+            }
+        }
+    },
+    {
+        "processed_items": 42000,
+        "avg_error": 0.007071445988783224,
+        "overestimation_percentage": 0.5364545232870032,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.463545476713,
+        "avg_query_time": 5.6500726721688495e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.3401,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 1.9000000000000021,
+                "95th": 2.9499999999999993,
+                "100th": 5.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 1.9000000000000021,
+                "95th": 2.9499999999999993,
+                "100th": 5.0
+            }
+        }
+    },
+    {
+        "processed_items": 44000,
+        "avg_error": 0.007389749702026222,
+        "overestimation_percentage": 0.5482717520858165,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.45172824791419,
+        "avg_query_time": 5.5179550480075334e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.3462,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 1.8000000000000007,
+                "95th": 3.799999999999997,
+                "100th": 5.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 1.8000000000000007,
+                "95th": 3.799999999999997,
+                "100th": 5.0
+            }
+        }
+    },
+    {
+        "processed_items": 46000,
+        "avg_error": 0.007899628252788104,
+        "overestimation_percentage": 0.5576208178438662,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.44237918215613,
+        "avg_query_time": 5.283486444267642e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.3538,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 1.6999999999999993,
+                "95th": 3.6999999999999957,
+                "100th": 7.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 1.6999999999999993,
+                "95th": 3.6999999999999957,
+                "100th": 7.0
+            }
+        }
+    },
+    {
+        "processed_items": 48000,
+        "avg_error": 0.008558558558558558,
+        "overestimation_percentage": 0.6306306306306306,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.36936936936937,
+        "avg_query_time": 5.986776437845316e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.3633,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 1.3000000000000007,
+                "95th": 3.299999999999997,
+                "100th": 7.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 1.3000000000000007,
+                "95th": 3.299999999999997,
+                "100th": 7.0
+            }
+        }
+    },
+    {
+        "processed_items": 50000,
+        "avg_error": 0.009042787825319806,
+        "overestimation_percentage": 0.6616674018526687,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.33833259814733,
+        "avg_query_time": 5.697856982163411e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.3697,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 1.1000000000000014,
+                "95th": 3.0999999999999943,
+                "100th": 8.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 1.1000000000000014,
+                "95th": 3.0999999999999943,
+                "100th": 8.0
+            }
+        }
+    },
+    {
+        "processed_items": 52000,
+        "avg_error": 0.008809626128061882,
+        "overestimation_percentage": 0.6446067898581865,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.35539321014181,
+        "avg_query_time": 5.193160335342413e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.3766,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 1.1000000000000014,
+                "95th": 3.0999999999999943,
+                "100th": 8.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 1.1000000000000014,
+                "95th": 3.0999999999999943,
+                "100th": 8.0
+            }
+        }
+    },
+    {
+        "processed_items": 54000,
+        "avg_error": 0.008894536213468869,
+        "overestimation_percentage": 0.6565014824227022,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.3434985175773,
+        "avg_query_time": 5.5707748135183385e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.3807,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 1.0,
+                "95th": 3.0,
+                "100th": 8.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 1.0,
+                "95th": 3.0,
+                "100th": 8.0
+            }
+        }
+    },
+    {
+        "processed_items": 56000,
+        "avg_error": 0.009563409563409564,
+        "overestimation_percentage": 0.7276507276507277,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.27234927234927,
+        "avg_query_time": 5.508311820872856e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.3861,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 1.0,
+                "95th": 2.5999999999999943,
+                "100th": 8.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 1.0,
+                "95th": 2.5999999999999943,
+                "100th": 8.0
+            }
+        }
+    },
+    {
+        "processed_items": 58000,
+        "avg_error": 0.009777958851089836,
+        "overestimation_percentage": 0.7537176614381749,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.24628233856183,
+        "avg_query_time": 5.467891401709352e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.3913,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 1.0,
+                "95th": 2.3999999999999915,
+                "100th": 8.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 1.0,
+                "95th": 2.3999999999999915,
+                "100th": 8.0
+            }
+        }
+    },
+    {
+        "processed_items": 60000,
+        "avg_error": 0.010884902237452126,
+        "overestimation_percentage": 0.8466035073573877,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.15339649264261,
+        "avg_query_time": 5.477956407758839e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.3944,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 1.0,
+                "95th": 2.0,
+                "100th": 8.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 1.0,
+                "95th": 2.0,
+                "100th": 8.0
+            }
+        }
+    },
+    {
+        "processed_items": 62000,
+        "avg_error": 0.011657775143252322,
+        "overestimation_percentage": 0.9089112823552659,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.09108871764474,
+        "avg_query_time": 5.858332195481725e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.4002,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 1.5,
+                "95th": 2.0,
+                "100th": 8.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 1.5,
+                "95th": 2.0,
+                "100th": 8.0
+            }
+        }
+    },
+    {
+        "processed_items": 64000,
+        "avg_error": 0.012259194395796848,
+        "overestimation_percentage": 0.953492897450866,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.04650710254913,
+        "avg_query_time": 5.332939725461278e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.4051,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 1.2000000000000028,
+                "95th": 2.0,
+                "100th": 9.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 1.2000000000000028,
+                "95th": 2.0,
+                "100th": 9.0
+            }
+        }
+    },
+    {
+        "processed_items": 66000,
+        "avg_error": 0.01273148148148148,
+        "overestimation_percentage": 1.0030864197530864,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 98.99691358024691,
+        "avg_query_time": 5.292441741919812e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.4078,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 1.0,
+                "95th": 2.0,
+                "100th": 9.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 1.0,
+                "95th": 2.0,
+                "100th": 9.0
+            }
+        }
+    },
+    {
+        "processed_items": 68000,
+        "avg_error": 0.012588212855235552,
+        "overestimation_percentage": 0.9917985885943161,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 99.00820141140568,
+        "avg_query_time": 5.604814714587828e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.412,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 1.0,
+                "95th": 2.0,
+                "100th": 9.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 1.0,
+                "95th": 2.0,
+                "100th": 9.0
+            }
+        }
+    },
+    {
+        "processed_items": 70000,
+        "avg_error": 0.013595166163141994,
+        "overestimation_percentage": 1.0196374622356497,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 98.98036253776435,
+        "avg_query_time": 5.304408217484858e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.4151,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 1.0,
+                "95th": 2.0,
+                "100th": 13.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 1.0,
+                "95th": 2.0,
+                "100th": 13.0
+            }
+        }
+    },
+    {
+        "processed_items": 72000,
+        "avg_error": 0.014533258803801007,
+        "overestimation_percentage": 1.0806782187441772,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 98.91932178125582,
+        "avg_query_time": 5.275905076764872e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.4185,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 13.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 13.0
+            }
+        }
+    },
+    {
+        "processed_items": 74000,
+        "avg_error": 0.015489581412502305,
+        "overestimation_percentage": 1.1063986723215933,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 98.89360132767841,
+        "avg_query_time": 5.355515252306258e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.4221,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 13.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 13.0
+            }
+        }
+    },
+    {
+        "processed_items": 76000,
+        "avg_error": 0.015562065177590626,
+        "overestimation_percentage": 1.0984987184181618,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 98.90150128158184,
+        "avg_query_time": 5.540853016370384e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.4244,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 14.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 14.0
+            }
+        }
+    },
+    {
+        "processed_items": 78000,
+        "avg_error": 0.016464628188890898,
+        "overestimation_percentage": 1.1941378686448345,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 98.80586213135517,
+        "avg_query_time": 5.331827974328085e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.4287,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 14.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 14.0
+            }
+        }
+    },
+    {
+        "processed_items": 80000,
+        "avg_error": 0.01681273475228045,
+        "overestimation_percentage": 1.2341262743695225,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 98.76587372563048,
+        "avg_query_time": 5.473222358988811e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.4329,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 14.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 14.0
+            }
+        }
+    },
+    {
+        "processed_items": 82000,
+        "avg_error": 0.017553191489361703,
+        "overestimation_percentage": 1.2943262411347518,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 98.70567375886526,
+        "avg_query_time": 5.448921352413529e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.4353,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 15.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 15.0
+            }
+        }
+    },
+    {
+        "processed_items": 84000,
+        "avg_error": 0.01841136244082062,
+        "overestimation_percentage": 1.3852358407855516,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 98.61476415921445,
+        "avg_query_time": 5.289857353680012e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.439,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 15.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 15.0
+            }
+        }
+    },
+    {
+        "processed_items": 86000,
+        "avg_error": 0.021147512567169353,
+        "overestimation_percentage": 1.577396429190501,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 98.4226035708095,
+        "avg_query_time": 5.249920079811005e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.4424,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 15.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 15.0
+            }
+        }
+    },
+    {
+        "processed_items": 88000,
+        "avg_error": 0.021940349674322936,
+        "overestimation_percentage": 1.64552622557422,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 98.35447377442577,
+        "avg_query_time": 5.701244551717806e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.4463,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 16.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 16.0
+            }
+        }
+    },
+    {
+        "processed_items": 90000,
+        "avg_error": 0.0226267437904049,
+        "overestimation_percentage": 1.701258931609391,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 98.2987410683906,
+        "avg_query_time": 5.565155278504726e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.4484,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 16.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 16.0
+            }
+        }
+    },
+    {
+        "processed_items": 92000,
+        "avg_error": 0.024078127630914294,
+        "overestimation_percentage": 1.7511365549755848,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 98.24886344502441,
+        "avg_query_time": 5.43276415386672e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.4523,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 16.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 16.0
+            }
+        }
+    },
+    {
+        "processed_items": 94000,
+        "avg_error": 0.025487256371814093,
+        "overestimation_percentage": 1.8657337997667833,
+        "underestimation_percentage": 0.0,
+        "exact_match_percentage": 98.13426620023323,
+        "avg_query_time": 5.901207352764861e-06,
+        "memory_usage": 400000.0,
+        "load_factor": 0.4556,
+        "percentiles": {
+            "overestimation": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 16.0
+            },
+            "underestimation": {
+                "50th": 0.0,
+                "90th": 0.0,
+                "95th": 0.0,
+                "100th": 0.0
+            },
+            "combined": {
+                "50th": 1.0,
+                "90th": 2.0,
+                "95th": 2.0,
+                "100th": 16.0
+            }
+        }
+    }
+]
